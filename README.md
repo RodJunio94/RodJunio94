@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Junio Rodrigues
 
-**`Desenvolvedora .NET`**
+**`Desenvolvedor .NET`**
 
 Sou desenvolvedor .NET com experiência em C#, ASP.NET MVC, Web API e SQL Server, atuando no desenvolvimento de sistemas de grande porte que impactam a sociedade e facilitam a vida de milhares de pessoas. Tenho interesse em projetos inovadores que tragam valor real para os usuários e gosto de trabalhar com boas práticas de código (SOLID, Clean Code, DDD)..
 
