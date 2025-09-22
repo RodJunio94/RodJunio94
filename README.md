@@ -51,27 +51,20 @@ Sou desenvolvedor .NET com experiência em C#, ASP.NET MVC, Web API e SQL Server
 />
 <img 
     align="left" 
-    alt="HTML5"
-    title="HTML5"
+    alt="Azure DevOps"
+    title="Azure DevOps"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
 />
+<!-- RabbitMQ -->
 <img 
     align="left" 
-    alt="CSS3"
-    title="CSS3"
+    alt="RabbitMQ"
+    title="RabbitMQ"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
 />
 <img 
     align="left" 
@@ -81,22 +74,7 @@ Sou desenvolvedor .NET com experiência em C#, ASP.NET MVC, Web API e SQL Server
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Azure DevOps"
-    title="Azure DevOps"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
-/>
+
 <!-- Angular -->
 <img 
     align="left" 
@@ -106,15 +84,13 @@ Sou desenvolvedor .NET com experiência em C#, ASP.NET MVC, Web API e SQL Server
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
-
-<!-- RabbitMQ -->
 <img 
     align="left" 
-    alt="RabbitMQ"
-    title="RabbitMQ"
+    alt="Git"
+    title="Git"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br clear="left"/>
