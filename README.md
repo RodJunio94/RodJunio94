@@ -97,6 +97,25 @@ Sou desenvolvedor .NET com experiência em C#, ASP.NET MVC, Web API e SQL Server
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
 />
+<!-- Angular -->
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+
+<!-- RabbitMQ -->
+<img 
+    align="left" 
+    alt="RabbitMQ"
+    title="RabbitMQ"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+/>
 
 <br clear="left"/>
 
